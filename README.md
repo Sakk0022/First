@@ -79,8 +79,8 @@
 [Git hub]([https://github.com/Sakk0022])
 
 ### Пример картинки
-![git](https://timeweb.com/ru/community/articles/kursy-po-rabote-s-git-i-github-vklyuchaya-besplatnoe-onlayn-obuchenie-dlya-novichkov)
+![git](https://blog.ronin.cloud/content/images/size/w2000/2022/01/git-feature.png)
 
 ### Пример кода
 ```python
-print('Hello, md!')
+print('Hello, world!')
